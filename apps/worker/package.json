@@ -13,7 +13,7 @@
     "db:migrate:remote": "XDG_CONFIG_HOME=../../.wrangler-config wrangler d1 migrations apply DB --remote -c ../../wrangler.toml"
   },
   "dependencies": {
-    "@cloudflare/puppeteer": "^1.1.0",
+    "@cloudflare/puppeteer": "^2.0.1",
     "@hono/zod-validator": "^0.4.1",
     "@taiwan-fin-hub/connectors": "0.1.0",
     "@taiwan-fin-hub/core": "0.1.0",

@@ -18,7 +18,7 @@
     "@taiwan-fin-hub/connectors": "0.1.0",
     "@taiwan-fin-hub/core": "0.1.0",
     "@taiwan-fin-hub/db": "0.1.0",
-    "hono": "^4.5.8",
+    "hono": "^4.13.16",
     "jpeg-js": "^0.4.4",
     "zod": "^3.23.8"
   },
